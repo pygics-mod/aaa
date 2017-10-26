@@ -24,6 +24,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.settings
+__run__/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -99,3 +101,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+/.project
+/.pydevproject
